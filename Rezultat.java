@@ -5,7 +5,6 @@ public class Rezultat {
     protected double curent_consumat;
     protected double functionare_ramasa;
 
-
     public Rezultat(double produs, double curent_consumat) {
         this.produs = produs;
         this.curent_consumat = curent_consumat;
