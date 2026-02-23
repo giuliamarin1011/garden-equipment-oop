@@ -10,8 +10,8 @@ folosind o ierarhie de aparate: `Aparat` → `Motosapa`, `MasinaTunsIarba`.
 - rulare din `Main` cu o colecție de aparate (polimorfism)
 
 ## Structură
-- `model/Aparat.java` – clasă abstractă
-- `model/Motosapa.java` – aparat pentru săpat
-- `model/MasinaTunsIarba.java` – aparat pentru tuns iarbă
+- `Aparat.java` – clasă abstractă
+- `Motosapa.java` – aparat pentru săpat
+- `MasinaTunsIarba.java` – aparat pentru tuns iarbă
 - `Main.java` – exemplu de utilizare
 
