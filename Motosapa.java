@@ -19,7 +19,7 @@ public class Motosapa extends Aparat implements Serializable {
     
     
     
-    // co fara arg
+    // constructor fara arg
      public Motosapa()
      {
         this.marca = "";
@@ -131,7 +131,7 @@ public class Motosapa extends Aparat implements Serializable {
     */
     // metode abstracte
      @Override
-    public void schimba_starea(rezultat a) {
+    public void schimba_starea(Rezultat a) {
         System.out.println("Masina " + marca + " " + model + " a tuns " + a.produs + " mp de iarba.");
         curent -= a.curent_consumat;
     }
