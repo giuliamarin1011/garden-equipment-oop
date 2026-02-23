@@ -1,5 +1,5 @@
 package ProiectPOO;
-import java.io*;
+import java.io.*;
 
 
 
