@@ -176,6 +176,7 @@ public class MasinaTunsIarba extends Aparat implements Serializable {
         double cost = (c.functionare_ramasa < 10) ? 50 : 20;
         System.out.println("Cost mentenanta pentru " + marca + " este " + cost + " lei.");  // calculeaza costul in functie de cat a fost folosit
     }
+}
 
     
           
